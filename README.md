@@ -18,10 +18,10 @@ Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* 
 
 ## 🌟 Ich arbeite momentan an zwei spannenden Projekten aus meinem Studium:
 
-1. **🧠 Java-Projekt**  
+**1. 🧠 Java-Projekt**  
    Entwicklung der Logik und Datenmodelle für eine Java-basierte Serveranwendung mit Fokus auf objektorientierte Modellierung, Clean Code & Unit-Testing.
 
-2. **📊 Data Science Projekt**  
+**2. 📊 Data Science Projekt**  
    Analyse realer Datensätze mit Python, JupyterLab & CRISP-DM-Modell – inkl. Visualisierung, Präsentation & Dokumentation.
 
 ---
