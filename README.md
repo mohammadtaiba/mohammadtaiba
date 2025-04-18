@@ -9,20 +9,20 @@ Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* 
 
 | Kategorie | Tools & Technologien |
 |-----------|---------------------|
-| **Sprachen** | JavaScript · TypeScript · Python · Java · C# · PHP · HTML · CSS |
+| **Sprachen** | C/C++ · Java · JavaScript · TypeScript · Python · C# · PHP · HTML · CSS |
 | **Frameworks/Libraries** | React (Native) · Next.js · Node.js/Express · Spring Boot · Redux · Tailwind CSS · Flutter |
 | **Tools & Plattformen** | Docker · Git & GitHub Actions · Firebase · MongoDB Atlas · REST/GraphQL APIs · Unity |
 | **Design & Media** | Adobe XD · Photoshop · Blender |
 
 ---
 
-## 🌱 Aktuelle Schwerpunkte
+## 🌟 Ich arbeite momentan an zwei spannenden Projekten aus meinem Studium:
 
-- **MERN‑Stack‑Projekte** für skalierbare Web‑Apps  
-- **Cross‑Platform‑Apps** mit React Native & Flutter  
-- **Game Development** (2D/3D) in Unity  
-- **Datenvisualisierung** & Dashboards (D3.js, Recharts)  
-- **Cloud‑Integrationen** (CI/CD, Container, Serverless)
+1. **🧠 Java-Projekt**  
+   Entwicklung der Logik und Datenmodelle für eine Java-basierte Serveranwendung mit Fokus auf objektorientierte Modellierung, Clean Code & Unit-Testing.
+
+2. **📊 Data Science Projekt**  
+   Analyse realer Datensätze mit Python, JupyterLab & CRISP-DM-Modell – inkl. Visualisierung, Präsentation & Dokumentation.
 
 ---
 
@@ -32,7 +32,7 @@ Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* 
 |---------|------------------|-------|
 | **[IndexLive](https://github.com/mohammadtaiba/indexlive)** | Interaktives Finanz‑Dashboard mit Echtzeit‑Kursen | MERN · GraphQL |
 | **[Super Ninja 2D](https://github.com/mohammadtaiba/super-ninja-2d)** | 2D‑Plattformer mit Bossfights & Level‑Editor | Unity · C# |
-| **[CarHub360](https://github.com/mohammadtaiba/carhub360)** | Handels‑ & Vermietungsplattform für Fahrzeuge | Spring Boot |
+| **[CarHub360](https://github.com/mohammadtaiba/carhub360)** | Handels‑ & Vermietungsplattform für Fahrzeuge | Java · Spring Boot |
 | **[Games Galaxy Store](https://github.com/mohammadtaiba/Games-galaxy-store)** | Webshop für PC‑Games mit Payment‑Flow | PHP · MySQL |
 
 ---
