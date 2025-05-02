@@ -8,7 +8,7 @@ Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* 
 ## 🚀 Technologie‑Stack
 
 | Kategorie | Tools & Technologien |
-|-----------|---------------------|
+|-----------|--------------------- |
 | **Sprachen** | C/C++ · Java · JavaScript · TypeScript · Python · C# · PHP · HTML · CSS |
 | **Frameworks/Libraries** | React (Native) · Next.js · Node.js/Express · Spring Boot · Redux · Tailwind CSS · Flutter |
 | **Tools & Plattformen** | Docker · Git & GitHub Actions · Firebase · MongoDB Atlas · REST/GraphQL APIs · Unity |
