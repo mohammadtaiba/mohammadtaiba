@@ -31,7 +31,7 @@ Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* 
 | Projekt | Kurzbeschreibung | Techs |
 |---------|------------------|-------|
 | **[IndexLive](https://github.com/mohammadtaiba/indexlive)** | Interaktives Finanz‑Dashboard mit Echtzeit‑Kursen | MERN · GraphQL |
-| **[Super Ninja 2D](https://github.com/mohammadtaiba/super-ninja-2d)** | 2D‑Spiel, Kampfspiel Level‑Editor | Unity · C# |
+| **[Super Ninja 2D](https://github.com/mohammadtaiba/super-ninja-2d)** | 2D‑Spiel, Kampfspiel | Unity · C# |
 | **[CarHub360](https://github.com/mohammadtaiba/carhub360)** | Handels‑ & Vermietungsplattform für Fahrzeuge | Java · Spring Boot |
 | **[Games Galaxy Store](https://github.com/mohammadtaiba/Games-galaxy-store)** | Webshop für PC‑Games | PHP · MySQL |
 
