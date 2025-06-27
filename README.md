@@ -1,5 +1,5 @@
 # 👋 Hallo, ich bin Mohammad Taiba  
-
+ 
 Willkommen auf meinem GitHub‑Profil! 
 Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* (Schwerpunkt **Medieninformatik**) – mit Leidenschaft für **Web‑ & Software‑Entwicklung** sowie **Künstliche Intelligenz**.
 
