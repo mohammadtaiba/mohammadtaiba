@@ -11,17 +11,8 @@ Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* 
 |-----------|--------------------- |
 | **Sprachen** | C/C++ · Java · JavaScript · TypeScript · Python · C# · PHP · HTML · CSS |
 | **Frameworks/Libraries** | React (Native) · Next.js · Node.js/Express |
-| **Tools & Plattformen** | Docker · Git & GitHub Actions · Firebase · MongoDB Atlas · REST/GraphQL APIs · Unity |
+| **Tools & Plattformen** | Docker · Git & GitHub Actions · Streamlit · LangChain · MongoDB · REST/GraphQL APIs · Unity |
 
----
-
-## 🌟 Ich arbeite momentan an zwei spannenden Projekten aus meinem Studium:
-
-**1. 🧠 Java-Projekt - [CarHub360](https://github.com/mohammadtaiba/carhub360)**  
-   Entwicklung der Logik und Datenmodelle für eine Java-basierte Serveranwendung mit Fokus auf objektorientierte Modellierung, Clean Code & Unit-Testing.
-
-**2. 📊 Data Science Projekt - [DataVision](https://github.com/mohammadtaiba/DataVision)**  
-   Analyse realer Datensätze mit Python, JupyterLab & CRISP-DM-Modell – inkl. Visualisierung, Präsentation & Dokumentation.
 
 ---
 
@@ -30,9 +21,11 @@ Ich bin **Full‑Stack‑Entwickler** und Student der *Angewandten Informatik* 
 | Projekt | Kurzbeschreibung | Techs |
 |---------|------------------|-------|
 | **[IndexLive](https://github.com/mohammadtaiba/indexlive)** | Interaktives Finanz‑Dashboard mit Echtzeit‑Kursen | MERN · GraphQL |
-| **[Super Ninja 2D](https://github.com/mohammadtaiba/super-ninja-2d)** | 2D‑Spiel, Kampfspiel | Unity · C# |
-| **[CarHub360](https://github.com/mohammadtaiba/carhub360)** | Handels‑ & Vermietungsplattform für Fahrzeuge | Java · Spring Boot |
+| **[Super Ninja 2D](https://github.com/mohammadtaiba/super-ninja-2d)** | 2D-Game (Fighting/Action) | Unity · C# |
+| **[CarHub360](https://github.com/mohammadtaiba/carhub360)** | Plattform für Fahrzeughandel & Vermietung | Java · Spring Boot |
 | **[Games Galaxy Store](https://github.com/mohammadtaiba/Games-galaxy-store)** | Webshop für PC‑Games | PHP · MySQL |
+| **RAG-Chatbot (Bachelorarbeit)** | Integration eines GPT-basierten Chatbots zur Analyse von Nachhaltigkeitsberichten | Python, ChromaDB, streamlit, langchain |
+| **RAG-Chatbot (Praktikum)** | Einbindung von KI im Kontext der Lehrer- und Schülerdatenbank in Hessen | Python, ChromaDB, streamlit, langchain |
 
 ---
 
