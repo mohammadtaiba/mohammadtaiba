@@ -7,13 +7,6 @@
 I build reliable software that solves real operational problems — from modern web applications and backend services to RAG-based AI systems for knowledge retrieval, automation, and process efficiency.
 
 <p>
-  <a href="https://mohammad-taiba.de"><strong>Portfolio</strong></a> •
-  <a href="https://github.com/mohammadtaiba"><strong>GitHub</strong></a> •
-  <a href="https://www.linkedin.com/in/mohammad-taiba/"><strong>LinkedIn</strong></a> •
-  <a href="mailto:mohammadtaiba55@gmail.com"><strong>Email</strong></a>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Available%20for-Software%20Engineering%20Roles-111111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Erfurt%2C%20Germany-1f6feb?style=for-the-badge" />
 </p>
