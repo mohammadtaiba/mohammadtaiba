@@ -8,7 +8,7 @@ I build reliable software that solves real operational problems — from modern 
 
 <p>
   <img src="https://img.shields.io/badge/Available%20for-Software%20Engineering%20Roles-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Erfurt%2C%20Germany-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Germany-1f6feb?style=for-the-badge" />
 </p>
 
 </div>
