@@ -55,7 +55,7 @@ My work combines:
 `Python` `Java` `TypeScript` `JavaScript` `C#` `C/C++` `PHP`
 
 ### Frontend
-`Angular` `React` `Next.js` `HTML` `CSS`
+`Angular` `Spring Boot` `React` `Next.js` `HTML` `CSS`
 
 ### Backend
 `Node.js` `Express` `Spring Boot` `REST APIs`
@@ -63,103 +63,23 @@ My work combines:
 ### Databases
 `MySQL` `MariaDB` `MongoDB` `ChromaDB`
 
-### AI / LLM
-`RAG` `LangChain` `Prompt Engineering` `Streamlit`
+### AI and Automation
+`RAG` `LangChain` `Prompt Engineering` `Streamlit` `PyTorch` `MCP` `Low-Code` 
 
 ### Tools
-`Git` `Docker` `GitLab CI/CD` `Jira`
+`Git` `Docker` `CI/CD` `Jira`  `MS Azure`
 
 ---
 
-## Selected Projects
+## Projects
 
-### [Portfolio Website](https://mohammad-taiba.de)
-**Professional portfolio platform** to present projects, skills, books, and CV.
+*Explore my projects in my portfolio:*
 
-**Highlights**
-- Angular SPA with standalone components
-- Lazy loading via router `loadComponent`
-- Centralized data model for projects, skills, and books
-- Search and tag filtering
-- Responsive layout with desktop and mobile navigation
-
-**Stack**  
-`Angular` `TypeScript` `HTML` `CSS` `Routing` `Netlify`
-
----
-
-### [IndexLive](https://github.com/mohammadtaiba/indexlive)
-**Interactive finance dashboard** for managing transactions, products, and KPIs in a modern full-stack application.
-
-**Highlights**
-- KPI dashboard with tables and charts
-- REST endpoints and GraphQL API
-- Swagger UI documentation
-- MongoDB-based data layer with seed data
-- Frontend integration with RTK Query and Apollo Client
-
-**Stack**  
-`MongoDB` `Express` `React` `Node.js` `TypeScript` `GraphQL` `REST API` `Docker`
-
----
-
-### RAG Chatbot — Internship Project
-**RAG-based chatbot** for the teacher and student database (LUSD), built to answer internal questions reliably through semantic search.
-
-**Highlights**
-- Interactive Streamlit interface
-- Automated LangChain pipeline
-- Multi-format ingestion: Word, Excel, PDF, HTML
-- Vector database indexing with ChromaDB
-- Authentication, logging, monitoring, and testing
-
-**Stack**  
-`Python` `LangChain` `Streamlit` `ChromaDB` `Docker` `Monitoring` `Auth`
-
----
-
-### RAG Chatbot — Bachelor Thesis
-**GPT-based RAG system** for analyzing sustainability reports with automated ingestion and a continuously updated vector knowledge base.
-
-**Highlights**
-- Automated ingestion from URLs and uploads
-- Conversion and cleanup pipeline
-- Chunking and vectorization workflow
-- Retrieval and prompt optimization
-- Interactive Streamlit interface
-
-**Stack**  
-`Python` `LangChain` `Streamlit` `ChromaDB` `RAG` `Scraping`
-
----
-
-### [Vehicle Sales & Rental Backend](https://github.com/mohammadtaiba/03_autoverwaltung)
-**Backend service** for a vehicle sales and rental system.
-
-**Highlights**
-- Customer and contract APIs
-- CRUD and filtering features
-- Stable persistence layer for demos and tests
-- Containerized deployment
-- Automated testing for key resources
-
-**Stack**  
-`Java` `Jakarta EE (JAX-RS)` `JPA / Hibernate` `H2` `JUnit` `OpenAPI` `Docker` `WildFly`
-
----
-
-### [Games Galaxy Store](https://github.com/mohammadtaiba/Games-galaxy-store)
-**Online shop prototype** for PC games.
-
-**Highlights**
-- Wishlist, cart, and purchase history
-- Search and category filtering
-- Checkout flow with multiple payment options
-- MVC-oriented server-side structure
-- Functional shop UI and navigation
-
-**Stack**  
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `MVC`
+<p align="left">
+  <a href="https://mohammad-taiba.de/projects">
+    <img src="https://img.shields.io/badge/My%20Projects-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Projects" />
+  </a>
+</p>
 
 ---
 
