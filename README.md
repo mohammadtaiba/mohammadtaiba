@@ -6,6 +6,10 @@
 
 I build reliable software that solves real operational problems — from modern web applications and backend services to RAG-based AI systems for knowledge retrieval, automation, and process efficiency.
 
+<p>
+  <img src="https://img.shields.io/badge/Location-Germany-1f6feb?style=for-the-badge" />
+</p>
+
 </div>
 
 ---
