@@ -57,10 +57,10 @@ My work combines:
 `Angular` `Spring Boot` `React` `Next.js` `HTML` `CSS`
 
 ### Backend
-`Node.js` `Express` `Spring Boot` `REST APIs`
+`Node.js` `Express` `Spring Boot` `.NET` `REST APIs` `GraphQL`
 
 ### Databases
-`MySQL` `MariaDB` `MongoDB` `ChromaDB`
+`MySQL` `MariaDB` `MongoDB` `H2` `ChromaDB`
 
 ### AI and Automation
 `RAG` `LangChain` `Prompt Engineering` `Streamlit` `PyTorch` `MCP` `Low-Code` 
