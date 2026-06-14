@@ -2,7 +2,7 @@
 
 # Mohammad Taiba
 
-### Full-Stack Developer • Scalable Web Systems • AI-Powered Applications
+### Full-Stack Software Developer • Scalable Web Systems • AI-Powered Applications
 
 I build reliable software that solves real operational problems — from modern web applications and backend services to RAG-based AI systems for knowledge retrieval, automation, and process efficiency.
 
