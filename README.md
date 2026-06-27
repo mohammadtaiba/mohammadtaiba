@@ -54,19 +54,19 @@ My work combines:
 `Python` `Java` `TypeScript` `JavaScript` `C#` `C/C++` `PHP`
 
 ### Frontend
-`Angular` `Spring Boot` `React` `Next.js` `HTML` `CSS`
+`Angular` `Vue` `React` `Next.js` `HTML` `CSS`
 
 ### Backend
-`Node.js` `Express` `Spring Boot` `.NET` `REST APIs` `GraphQL`
+`Node.js` `Express` `Spring Boot` `ASP.NET` `REST APIs` `GraphQL`
 
 ### Databases
-`MySQL` `MariaDB` `MongoDB` `H2` `ChromaDB`
+`MySQL` `PostgreSQL` `MariaDB` `MongoDB` `ChromaDB`
 
 ### AI and Automation
 `RAG` `LangChain` `Prompt Engineering` `Streamlit` `PyTorch` `MCP` `Low-Code` 
 
 ### Tools
-`Git` `Docker` `CI/CD` `Jira`  `MS Azure`
+`Git` `Docker` `CI/CD` `Jira`
 
 ---
 
