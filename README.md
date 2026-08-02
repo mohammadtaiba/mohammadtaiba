@@ -4,8 +4,6 @@
 
 ### Full-Stack Software Developer • Scalable Web Systems • AI-Powered Applications
 
-I build reliable software that solves real operational problems — from modern web applications and backend services to RAG-based AI systems for knowledge retrieval, automation, and process efficiency.
-
 <p>
   <img src="https://img.shields.io/badge/Location-Germany-1f6feb?style=for-the-badge" />
 </p>
@@ -18,16 +16,7 @@ I build reliable software that solves real operational problems — from modern 
 
 I am a **Full-Stack Developer** focused on building software that is not only functional, but also **scalable, maintainable, and production-ready**.
 
-My work combines:
-
-- **Web application development** with modern frontend and backend technologies
-- **Backend engineering** with clean APIs, structured architecture, and reliable data handling
-- **AI-driven systems** that automate internal workflows and improve access to knowledge
-- **Engineering quality** through testing, CI/CD, logging, monitoring, and reproducible deployment
-
----
-
-## What I Deliver
+### What I Deliver
 
 <table>
   <tr>
