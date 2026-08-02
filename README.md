@@ -48,28 +48,6 @@ My work combines:
 
 ---
 
-## Tech Stack
-
-### Languages
-`Python` `Java` `TypeScript` `JavaScript` `C#` `C/C++` `PHP`
-
-### Frontend
-`Angular` `Vue` `React` `Next.js` `HTML` `CSS`
-
-### Backend
-`Node.js` `Express` `Spring Boot` `ASP.NET` `REST APIs` `GraphQL`
-
-### Databases
-`MySQL` `PostgreSQL` `MariaDB` `MongoDB` `ChromaDB`
-
-### AI and Automation
-`RAG` `LangChain` `Prompt Engineering` `Streamlit` `PyTorch` `MCP` `Low-Code` 
-
-### Tools
-`Git` `Docker` `CI/CD` `Jira`
-
----
-
 ## Projects
 
 *Explore my projects in my portfolio:*
@@ -91,15 +69,6 @@ That means:
 - building **maintainable systems instead of short-term hacks**
 - using **tests, CI/CD, logging, and monitoring** as engineering standards
 - improving AI systems with **evaluation, guardrails, and measurable quality**
-
----
-
-## Current Focus
-
-- Scalable full-stack systems
-- Backend architecture and API design
-- AI / RAG applications for real business workflows
-- Clean, maintainable, production-oriented software engineering
 
 ---
 
