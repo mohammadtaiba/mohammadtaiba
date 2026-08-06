@@ -42,7 +42,7 @@ I am a **Full-Stack Developer** focused on building software that is not only fu
 *Explore my projects in my portfolio:*
 
 <p align="left">
-  <a href="https://mohammad-taiba.de/projects">
+  <a href="https://mohammad-taiba.de/#projekte">
     <img src="https://img.shields.io/badge/My%20Projects-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Projects" />
   </a>
 </p>
